@@ -1,13 +1,11 @@
 
 
-# Kişiler Uygulaması - IOS App - Tasarım
+# Kişiler Uygulaması - IOS App - Core Data
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-09-15 at 20 13 07](https://github.com/user-attachments/assets/e78a0854-9462-4df9-ac93-9cd34ca6578e)
-![Simulator Screenshot - iPhone 15 Pro - 2024-09-15 at 20 13 16](https://github.com/user-attachments/assets/8529863d-0f55-41a4-ae00-8718de4514a2)
-![Simulator Screenshot - iPhone 15 Pro - 2024-09-15 at 20 13 38](https://github.com/user-attachments/assets/db316b8d-1eb6-4bdb-9741-1084721a651c)
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-09-15 at 20 13 50](https://github.com/user-attachments/assets/9edcb3fa-d661-4da6-9ea6-9c08d76e8b3c)
-![Simulator Screenshot - iPhone 15 Pro - 2024-09-15 at 20 13 28](https://github.com/user-attachments/assets/5a9de633-8b04-4d24-b1fb-b5731991ef05)
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-21 at 14 22 44](https://github.com/user-attachments/assets/2ea3d357-2515-4931-87c3-e54598044d8f)
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-21 at 14 22 55](https://github.com/user-attachments/assets/d3df37d3-4308-4d7a-83c0-a0bf1af2d0ed)
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-21 at 14 23 05](https://github.com/user-attachments/assets/2b0b5d93-0bf7-45b5-b185-5eecefa61608)
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-21 at 14 23 25](https://github.com/user-attachments/assets/1da14ee7-8dc6-4b23-821d-a29e5d345bdc)
 
 ## Referanslar
 
